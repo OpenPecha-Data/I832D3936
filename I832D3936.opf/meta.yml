@@ -1,0 +1,158 @@
+id: I832D3936
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: W1KG12589
+  source: bdrc.io
+  batch_id: batch003
+  software_id: vision
+  expected_default_language: bo
+  ocr_info: {}
+  op_import_options: {}
+  op_import_version: 0.9.7
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-10-28T11:43:06.596952+00:00'
+last_modified: '2022-10-28T11:43:06.597037+00:00'
+parser: null
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG12589
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG12589
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ངེས་དོན་ཕྱག་ཆེན་རྒྱ་གཞུང་དང་བོད་གཞུང་།
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9862468939693655
+  ocr_word_median_confidence_index: 1.0
+quality: null
+bases:
+  I1KG12595:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12595
+      total_pages: 450
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1KG12595.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9847949697467786
+  I1KG12602:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12602
+      total_pages: 316
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I1KG12602.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9870909006824093
+  I1KG12597:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12597
+      total_pages: 514
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I1KG12597.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9893641844637776
+  I1KG12593:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12593
+      total_pages: 464
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1KG12593.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9845826241155263
+  I1KG12592:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12592
+      total_pages: 434
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1KG12592.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9900417157280584
+  I1KG12600:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12600
+      total_pages: 548
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I1KG12600.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9905581305018374
+  I1KG12596:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12596
+      total_pages: 476
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I1KG12596.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9608984612728777
+  I1KG12594:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12594
+      total_pages: 436
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG12594.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.988498462803024
+  I1KG12598:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12598
+      total_pages: 544
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I1KG12598.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9926454051433584
+  I1KG12599:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12599
+      total_pages: 448
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I1KG12599.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9934471281037057
+  I1KG12601:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG12601
+      total_pages: 428
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I1KG12601.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9853753407291848
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
